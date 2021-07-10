@@ -114,7 +114,7 @@ async loadWeb3(){
             rel="noopener noreferrer"
             
           >
-         Save your files securely to blockchain 
+        DropBlocks
           </a>
           <ul className="nabar-nav px-3">
             <li className="nav-item-text-nowrap d-none d-sm-none d-sm-block">
@@ -126,18 +126,34 @@ async loadWeb3(){
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-              <h2>Upload File</h2>
+              <h2>Upload Files to Blockchain </h2>
+              <br></br>
+                <br></br>
+               
+          
+ 
                 <form onSubmit={this.onSubmit}>
-                <input type='file' onChange={this.captureFile}/>
-                <input type='submit'/>
-
+                <div class="image-upload-wrap">
+                <input class="file-upload-input" type='file' onChange={this.captureFile}/>
+                <div class="drag-text">
+                             
+                <h3>Drag and drop a file or select add file</h3>
+                </div>
+               </div>
+                <br></br>
+                <br></br>
+                <input className="file-upload-btn" type='submit'/>
+                
+                <br></br>
+                <br></br>
                 </form>
                 <a
+                className="buttonDownload"
                   href={`https://ipfs.infura.io/ipfs/${this.state.fileHash}`}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                Download File 
+               Download 
                 </a>
                 <p></p>
                 
