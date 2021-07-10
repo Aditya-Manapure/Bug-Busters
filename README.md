@@ -1,11 +1,14 @@
 # Drop-Blocks 
+This is an application which allows user to store their confidential files securely to the blockchain 
+
 
 Tech Stack
 1. React JS
 2. Solidity for smart contracts
 3. Ganache & Metamask
-4. MERN Stack for login System
-5. Ethereum Blockchain is backend for the application where files get stored
+4. IPFS
+5. MERN Stack for login System
+6. Ethereum Blockchain is backend for the application where files get stored
 
 
 
