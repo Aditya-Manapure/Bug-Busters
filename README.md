@@ -7,8 +7,7 @@ Tech Stack
 2. Solidity for smart contracts
 3. Ganache & Metamask
 4. IPFS
-5. MERN Stack for login System
-6. Ethereum Blockchain is backend for the application where files get stored
+5. Ethereum Blockchain is backend for the application where files get stored
 
 
 
