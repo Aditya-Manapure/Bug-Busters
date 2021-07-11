@@ -13,6 +13,10 @@
 <h3>5. Ethereum Blockchain is backend for the application where files get stored</h3>
 
 
+<h2>Sturcture</h2>
+<img src="images/structure.png" width="500px" height="250px" align="center">
+
+
 
 <h2>HomePage</h2>
 <img src="images/Homepage.png">
