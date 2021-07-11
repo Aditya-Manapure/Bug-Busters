@@ -1,5 +1,5 @@
 # Drop-Blocks 
-This is an application which allows user to store their confidential files securely to the blockchain 
+This is an Web-Application which allows user to store their confidential files securely in the blockchain.
 
 
 Tech Stack
