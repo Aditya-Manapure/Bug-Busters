@@ -1,5 +1,5 @@
 <img src="images/logo-circular.png" width="130px" height="130px" />
-<h1>Drop-Blocks</h1> 
+<h1>DropBlocks</h1> 
 <h4>This is an Web-Application which allows user to store their confidential files securely in the blockchain.</h4>
 
  <h2>Why BlockChain?</h2>
