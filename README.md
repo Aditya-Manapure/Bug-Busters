@@ -14,7 +14,7 @@
 
 
 <h2>Sturcture</h2>
-<img src="images/structure.png" width="500px" height="250px" align="center">
+<img align="center" src="images/structure.png" width="500px" height="250px" >
 
 
 
